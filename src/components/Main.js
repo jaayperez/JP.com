@@ -160,8 +160,8 @@ class Main extends React.Component {
               <textarea name="message" id="message" rows="4"  isRequired></textarea>
             </div>
             <ul className="actions">
-              <li><input type="submit" value="Send" className="special" /></li>
-              <li><input type="reset" value="Reset" /></li>
+              <li><input name="submit" type="submit" value="Send" className="special" /></li>
+              <li><input name="reset" type="reset" value="Reset" /></li>
             </ul>
             <input type="hidden" name="thankyou_url" value=""/>
           </form>
