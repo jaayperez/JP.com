@@ -143,11 +143,11 @@ class Main extends React.Component {
           <p>So you are looking for a professional, communicative and punctual software developer who likes to keep productive.
           Email at <a className="gold" href="mailto:justin@startrev.com">justin@startrev.com</a></p>
           <form
-          name="contact"
-          method="post"
-          action="/success"
-          data-netlify="true"
-          data-netlify-honeypot="bot-field"
+            name="contact"
+            method="post"
+            action="/success"
+            data-netlify="true"
+            data-netlify-honeypot="bot-field"
           >
             <input type="hidden" name="bot-field" />
             <div className="field">
