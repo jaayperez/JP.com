@@ -142,9 +142,14 @@ class Main extends React.Component {
           <h2 className="major">Contact Me</h2>
           <p>So you are looking for a professional, communicative and punctual software developer who likes to keep productive.
           Email at <a className="gold" href="mailto:justin@startrev.com">justin@startrev.com</a></p>
-          <form name="contact" method="post" action="/thanks/" data-netlify="true" data-netlify-honeypot="bot-field">
+          <form
+          name="contact"
+          method="post"
+          action="/success"
+          data-netlify="true"
+          data-netlify-honeypot="bot-field"
+          >
             <input type="hidden" name="bot-field" />
-            <input type="hidden" name="form-name" value="contact" />
             <div className="field">
               <label htmlFor="name">First and Last Name *</label>
               <input type="text" name="name" id="name" isRequired/>
