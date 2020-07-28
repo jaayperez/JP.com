@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{"/bux":function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),l=a.n(t),u=a("Bl7J");n.default=function(){return l.a.createElement(u.a,null,l.a.createElement("h2",null,"You dropped me a new line."),l.a.createElement("h4",null," Congrats, I'll be sure to check it out when I can and add a reply"))}}}]);
+//# sourceMappingURL=component---src-pages-success-js-7bb9ea06552d9e2fd43e.js.map
