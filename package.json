@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Justin Perez",
   "dependencies": {
-    "gatsby": "^2.24.67",
+    "gatsby": "^5.9.0",
     "gatsby-plugin-manifest": "^2.4.33",
     "gatsby-plugin-offline": "^3.2.30",
     "gatsby-plugin-react-helmet": "^3.3.12",
